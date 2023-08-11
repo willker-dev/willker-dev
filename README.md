@@ -1,9 +1,7 @@
-
 ### Olá! Eu sou o Willker Gabriel 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willker-gabriel-9236a226a/)
 
-![Willker GitHub stats](https://github-readme-stats.vercel.app/api?username=willker-dev &show_icons=true&theme=merko)
 
 ### Tecnologias que eu uso no meu dia
 
