@@ -64,17 +64,6 @@ Além de programar, sou apaixonado por **educação**, **design de sistemas** e 
 - 📧 **Email**: willker.dev@gmail.com
 - 🌐 **Website**: [www.willker.dev](https://www.willker.dev) (em construção)
 
----
-
-## 📜 Licença
-
-Este projeto está licenciado sob a **Licença MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-## 🚀 Meu Compromisso com a Sustentabilidade
-
-Como parte do meu compromisso com a sustentabilidade, estou desenvolvendo um portfólio de **projetos sustentáveis**, com o objetivo de criar soluções tecnológicas que ajudem empresas e indivíduos a adotar práticas mais **eco-friendly** e **conscientes** no dia a dia.
 
 ---
 
