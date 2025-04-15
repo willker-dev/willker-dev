@@ -61,7 +61,7 @@ Além de programar, sou apaixonado por **educação**, **design de sistemas** e 
 ## 📬 Vamos Conversar?
 
 - 💼 **LinkedIn**: [willker-gabriel](https://www.linkedin.com/in/willker-gabriel-9236a226a/)
-- 📧 **Email**: willker.dev@gmail.com
+- 📧 **Email**: willkergds@gmail.com
 - 🌐 **Website**: [www.willker.dev](https://www.willker.dev) (em construção)
 
 
