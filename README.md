@@ -47,7 +47,7 @@ final class WillkerGabriel extends Developer implements SysAdmin
         'frontend' => ['JavaScript', 'React', 'Vue.js', 'Bootstrap'],
         'data'     => ['MySQL', 'Query Optimization', 'Migrations'],
         'infra'    => ['Proxmox', 'Linux', 'Bash', 'Nginx'],
-        'security' => ['Wazuh', 'pfSense', 'Firewall CMC', 'VPN'],
+        'security' => ['Wazuh', 'pfSense', 'Firewall', 'VPN'],
         'ops'      => ['Zabbix', 'Bacula', 'Monitoring', 'Disaster Recovery'],
     ];
 
@@ -64,7 +64,7 @@ final class WillkerGabriel extends Developer implements SysAdmin
 
 Desenvolvedor **Full Stack** apaixonado por **tecnologia**, **segurança** e **inovação**. Atualmente na **Hisower**, onde integro o desenvolvimento de aplicações robustas com a gestão completa de infraestrutura.
 
-Meu trabalho vai muito além do código: opero **SIEM com Wazuh**, firewalls **pfSense** e **CMC**, virtualização em **Proxmox**, monitoramento com **Zabbix** e rotinas corporativas de **backup com Bacula**.
+Meu trabalho vai muito além do código: opero **SIEM com Wazuh**, **firewalls** e **pfSense**, virtualização em **Proxmox**, monitoramento com **Zabbix** e rotinas corporativas de **backup com Bacula**.
 
 > 🎯 Sigo padrões rigorosos — *clean code*, `camelCase`, formatação estrita e arquitetura de **models/policies** — para entregar sistemas escaláveis, seguros e fáceis de manter.
 
@@ -114,7 +114,7 @@ Meu trabalho vai muito além do código: opero **SIEM com Wazuh**, firewalls **p
 <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
 <img src="https://img.shields.io/badge/Bacula-1B4F72?style=for-the-badge&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/Firewall_CMC-6C3483?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Firewall-6C3483?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" />
 <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
@@ -149,10 +149,10 @@ Meu trabalho vai muito além do código: opero **SIEM com Wazuh**, firewalls **p
 > Detecção, resposta e hardening em ambiente corporativo.
 
 - Implantação e operação de **Wazuh** (SIEM/XDR): agentes, regras customizadas, alertas de integridade de arquivos e detecção de intrusão
-- Gestão de firewalls **pfSense** e **CMC**: regras, NAT, VLANs, filtragem e túneis **VPN**
+- Gestão de **firewalls** e **pfSense**: regras, NAT, VLANs, filtragem e túneis **VPN**
 - Hardening de servidores Linux, gestão de acessos e auditoria de logs
 
-`Wazuh` &nbsp;`pfSense` &nbsp;`CMC` &nbsp;`VPN` &nbsp;`Hardening`
+`Wazuh` &nbsp;`pfSense` &nbsp;`Firewall` &nbsp;`VPN` &nbsp;`Hardening`
 
 </details>
 
@@ -204,18 +204,30 @@ Meu trabalho vai muito além do código: opero **SIEM com Wazuh**, firewalls **p
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=willker-dev&show_icons=true&count_private=true&hide_border=true&hide_title=true&include_all_commits=true&cache_seconds=1800&bg_color=0d1117&title_color=FF2D20&icon_color=FF2D20&text_color=c9d1d9&ring_color=FF2D20" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willker-dev&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800&bg_color=0d1117&title_color=FF2D20&text_color=c9d1d9" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=willker-dev&bg_color=0d1117&color=FF2D20&line=FF2D20&point=ffffff&area=true&area_color=FF2D20&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" width="98%" alt="Activity Graph" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=willker-dev&bg_color=0d1117&color=FF2D20&line=FF2D20&point=ffffff&area=true&area_color=FF2D20&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" width="98%" alt="Activity Graph" />
+<!--
+  ⚠️  ATENÇÃO — LEIA ANTES DE EDITAR
+  Os dois cards abaixo usam a instância PÚBLICA do github-readme-stats,
+  que vive estourando o rate limit da API do GitHub e some do ar.
+  Para que funcionem 100% do tempo, troque o domínio
+      github-readme-stats.vercel.app
+  pelo domínio da SUA instância no Vercel (instruções no fim do arquivo).
+-->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=willker-dev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&cache_seconds=1800&bg_color=0d1117&title_color=FF2D20&icon_color=FF2D20&text_color=c9d1d9&ring_color=FF2D20&v=3" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willker-dev&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800&bg_color=0d1117&title_color=FF2D20&text_color=c9d1d9&v=3" alt="Top Languages" />
+
+<br><br>
+
+<a href="https://github.com/willker-dev?tab=repositories">
+  <img src="https://img.shields.io/badge/Reposit%C3%B3rios-0d1117?style=for-the-badge&logo=github&logoColor=FF2D20" />
+</a>
+<img src="https://img.shields.io/github/followers/willker-dev?style=for-the-badge&color=FF2D20&labelColor=0d1117&logo=github&logoColor=white&label=Seguidores" />
+<img src="https://img.shields.io/github/last-commit/willker-dev/willker-dev?style=for-the-badge&color=FF2D20&labelColor=0d1117&logo=git&logoColor=white&label=%C3%9Altimo%20commit" />
 
 </div>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-<!-- ═══════════════════════════════ FILOSOFIA ═══════════════════════════════ -->
 
 ## &nbsp;💡&nbsp; Além do código
 
