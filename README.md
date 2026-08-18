@@ -128,7 +128,7 @@ Meu trabalho vai muito além do código: opero **SIEM com Wazuh**, **firewalls**
 
 ## &nbsp;💼&nbsp; Projetos & Experiência
 
-<details open>
+<details>
 <summary><b>🔬 &nbsp;Sistemas de Gestão e Laboratoriais</b></summary>
 <br>
 
