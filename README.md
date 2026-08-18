@@ -196,6 +196,22 @@ Meu trabalho vai muito além do código: opero **SIEM com Wazuh**, **firewalls**
 
 </details>
 
+<details open>
+<summary><b>🧭 &nbsp;Rota do Compasso</b></summary>
+<br>
+
+> Rede de conexão entre irmãos maçons e empresas afiliadas — app mobile + painel administrativo, do zero ao ar.
+
+- Backend em **Laravel** com API para o app (Passport) e painel administrativo próprio
+- App **React Native/Expo** com geolocalização, navegação e notificações push
+- Assinaturas recorrentes via **Mercado Pago** e aprovação de cadastros direto pelo **Telegram**
+- Deploy via **git** com atualização automática em produção + **EAS Update** (OTA) no mobile
+
+`Laravel` &nbsp;`PHP` &nbsp;`React Native` &nbsp;`Expo` &nbsp;`MySQL` &nbsp;`Mercado Pago`
+
+</details>
+
+
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 <!-- ═══════════════════════════════ STATS ═══════════════════════════════ -->
